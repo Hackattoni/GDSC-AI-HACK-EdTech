@@ -1,6 +1,6 @@
 # 🎧 ListenUp - AI EdTech Fact-Checking Tool
 
-> **🏆 Top 5 Finalist** at the Google Developer Student Hack (GDSC AI Hack)
+> **🏆 Top 5 Finalist** at the [Google Developer Student Hack (GDSC AI Hack)](https://gdg.community.dev/events/details/google-gdg-on-campus-polytechnic-university-of-milan-presents-gdsc-ai-hack-2024/)
 
 **ListenUp** is an AI-powered educational tool designed to help students improve their oral presentations. The system analyzes student audio recordings, compares them against a reference text (PDF), and automatically flags conceptual inaccuracies or inconsistencies.
 
@@ -27,3 +27,5 @@
    ```bash
    git clone [https://github.com/Hackattoni/GDSC-AI-HACK-EdTech.git](https://github.com/Hackattoni/GDSC-AI-HACK-EdTech.git)
    ```
+
+2. Run `Hackattoni_notebook.ipynb`
